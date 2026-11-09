@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SportZone
 
 Aplicación Flutter de tienda deportiva con catálogo de ejemplo, búsqueda,
@@ -53,3 +54,6 @@ Para conectar un proyecto Firebase real:
 
 La inicialización y las credenciales de Firebase no se incluyen porque dependen
 del proyecto y las plataformas que se vayan a habilitar.
+=======
+# SportZone
+>>>>>>> 0e46e298a22d6eede71f7b1d83b3314589b6c3bb
