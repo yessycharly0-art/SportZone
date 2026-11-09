@@ -122,7 +122,7 @@ Fondo oscuro con acento naranja para transmitir energía y movimiento.
 
 ## Autores
 
-- Carlos López Peña – _[agregar usuario de GitHub]_
+- Carlos López Peña – _[223112082-lang]_()
 - Diego Ian León Contreras – [@leondiego904](https://github.com/leondiego904)
 - Yessenia Martínez Jiménez – [@yessycharly0-art](https://github.com/yessycharly0-art)
 
